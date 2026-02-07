@@ -1,3 +1,4 @@
 # Algorithmic Trading Bot
 
 https://alpmesri.medium.com/my-algorithmic-trading-project-6d24db04683
+https://www.geeksforgeeks.org/dsa/project-idea-algorithmic-trading-bot/
