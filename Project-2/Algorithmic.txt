@@ -1,2 +1,3 @@
 # Algorithmic Trading Bot
 
+https://alpmesri.medium.com/my-algorithmic-trading-project-6d24db04683
